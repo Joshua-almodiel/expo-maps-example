@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "expo-maps-example",
-    "slug": "expo-maps-example",
+    "slug": "hands-on-activity-no-8-location-and-maps",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -29,7 +29,7 @@
           "apiKey": "your-api-key-here"
         }
       },
-      "package": "com.betoatexpo.expomapsexample"
+      "package": "com.joshy.handson8locationmaps"
     },
     "web": {
       "bundler": "metro",
@@ -61,9 +61,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "6a197334-3cdd-4185-894d-a463608b290a"
+        "projectId": "631a495c-7b2e-4ce6-8fa2-4dd86fbf5b70"
       }
     },
-    "owner": "betoatexpo"
+    "owner": "josh-y"
   }
 }
